@@ -2,10 +2,10 @@
 SwiftUI 연습
 
 ## Project
-* 01BasicViews
-* 02ViewModifiers
-* 03LayoutWithStacks
-* 04StateBinding
+* 01-BasicViews
+* 02-ViewModifiers
+* 03-LayoutWithStacks
+* 04-StateBinding
 
 
 ## 학습자료
