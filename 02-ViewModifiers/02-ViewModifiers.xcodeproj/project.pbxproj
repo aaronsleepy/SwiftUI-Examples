@@ -16,6 +16,7 @@
 		937841BC29437F2D002285BA /* _2_ViewModifiersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841BB29437F2D002285BA /* _2_ViewModifiersUITestsLaunchTests.swift */; };
 		937841C929437F87002285BA /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841C829437F87002285BA /* TextView.swift */; };
 		937841CB29437FE1002285BA /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841CA29437FE1002285BA /* ImageView.swift */; };
+		937841CD29438089002285BA /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841CC29438089002285BA /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		937841BB29437F2D002285BA /* _2_ViewModifiersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _2_ViewModifiersUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		937841C829437F87002285BA /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		937841CA29437FE1002285BA /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		937841CC29438089002285BA /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				937841A029437F2B002285BA /* ContentView.swift */,
 				937841C829437F87002285BA /* TextView.swift */,
 				937841CA29437FE1002285BA /* ImageView.swift */,
+				937841CC29438089002285BA /* ButtonView.swift */,
 				937841A229437F2D002285BA /* Assets.xcassets */,
 				937841A429437F2D002285BA /* Preview Content */,
 			);
@@ -265,6 +268,7 @@
 			files = (
 				937841CB29437FE1002285BA /* ImageView.swift in Sources */,
 				937841C929437F87002285BA /* TextView.swift in Sources */,
+				937841CD29438089002285BA /* ButtonView.swift in Sources */,
 				937841A129437F2B002285BA /* ContentView.swift in Sources */,
 				9378419F29437F2B002285BA /* _2_ViewModifiersApp.swift in Sources */,
 			);
