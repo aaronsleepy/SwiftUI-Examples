@@ -16,6 +16,7 @@
 		932A62CC293E0AC7003427D3 /* _1_BasicViewsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932A62CB293E0AC7003427D3 /* _1_BasicViewsUITestsLaunchTests.swift */; };
 		932A62D9293E0B99003427D3 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932A62D8293E0B99003427D3 /* TextView.swift */; };
 		9378418F29437C58002285BA /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9378418E29437C58002285BA /* ButtonView.swift */; };
+		9378419129437CF7002285BA /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9378419029437CF7002285BA /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		932A62CB293E0AC7003427D3 /* _1_BasicViewsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_BasicViewsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		932A62D8293E0B99003427D3 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		9378418E29437C58002285BA /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		9378419029437CF7002285BA /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				932A62B0293E0AC5003427D3 /* ContentView.swift */,
 				932A62D8293E0B99003427D3 /* TextView.swift */,
 				9378418E29437C58002285BA /* ButtonView.swift */,
+				9378419029437CF7002285BA /* ImageView.swift */,
 				932A62B2293E0AC6003427D3 /* Assets.xcassets */,
 				932A62B4293E0AC6003427D3 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9378419129437CF7002285BA /* ImageView.swift in Sources */,
 				932A62D9293E0B99003427D3 /* TextView.swift in Sources */,
 				932A62B1293E0AC5003427D3 /* ContentView.swift in Sources */,
 				9378418F29437C58002285BA /* ButtonView.swift in Sources */,
