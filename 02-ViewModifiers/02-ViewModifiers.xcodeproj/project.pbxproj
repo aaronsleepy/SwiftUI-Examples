@@ -14,6 +14,7 @@
 		937841B029437F2D002285BA /* _2_ViewModifiersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841AF29437F2D002285BA /* _2_ViewModifiersTests.swift */; };
 		937841BA29437F2D002285BA /* _2_ViewModifiersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841B929437F2D002285BA /* _2_ViewModifiersUITests.swift */; };
 		937841BC29437F2D002285BA /* _2_ViewModifiersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841BB29437F2D002285BA /* _2_ViewModifiersUITestsLaunchTests.swift */; };
+		937841C929437F87002285BA /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937841C829437F87002285BA /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		937841B529437F2D002285BA /* 02-ViewModifiersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "02-ViewModifiersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		937841B929437F2D002285BA /* _2_ViewModifiersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _2_ViewModifiersUITests.swift; sourceTree = "<group>"; };
 		937841BB29437F2D002285BA /* _2_ViewModifiersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _2_ViewModifiersUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		937841C829437F87002285BA /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				9378419E29437F2B002285BA /* _2_ViewModifiersApp.swift */,
 				937841A029437F2B002285BA /* ContentView.swift */,
+				937841C829437F87002285BA /* TextView.swift */,
 				937841A229437F2D002285BA /* Assets.xcassets */,
 				937841A429437F2D002285BA /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				937841C929437F87002285BA /* TextView.swift in Sources */,
 				937841A129437F2B002285BA /* ContentView.swift in Sources */,
 				9378419F29437F2B002285BA /* _2_ViewModifiersApp.swift in Sources */,
 			);
