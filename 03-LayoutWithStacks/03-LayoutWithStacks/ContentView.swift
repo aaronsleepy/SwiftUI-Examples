@@ -12,7 +12,10 @@ struct ContentView: View {
         VStack {
             ImageView()
             ButtonView()
-            TextView()
+            HStack {
+                TextView()
+                Spacer()
+            }
             
             HStack {
                 ImageView()
