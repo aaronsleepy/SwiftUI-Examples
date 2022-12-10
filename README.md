@@ -3,8 +3,13 @@ SwiftUI 연습
 
 ## Project
 * 01-BasicViews
+
 * 02-ViewModifiers
+
 * 03-LayoutWithStacks
+![image](https://user-images.githubusercontent.com/89061309/206852205-f97fb4e2-9a0e-4951-8cfb-087c08e501c5.png)
+
+
 * 04-StateBinding
 
 
